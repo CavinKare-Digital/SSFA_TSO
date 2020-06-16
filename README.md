@@ -1,7 +1,7 @@
 # SSFA Top performers TSOs
 
 ## Objective:
-To find top perfomers with thier achievements(in %) across six months
+To find top performers with thier achievements(in %) across six months.
 
 ## Steps:
 * To find trend across the months :
